@@ -1181,6 +1181,15 @@
       ]
     },
     {
+      "name": "Cava",
+      "url": "http://cava.com/.well-known/security.txt",
+      "bounty": false,
+      "swag": false,
+      "domains": [
+          "cava.com"
+        ]
+    },
+    {
       "name": "CBRE",
       "url": "https://hackerone.com/cbre",
       "bounty": false,
